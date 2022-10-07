@@ -3,7 +3,7 @@
 }
 
 button {
-    padding: 10px 15px;
+    padding: 3px 7px;
   font-size: 13px;
   text-align: center;
   cursor: pointer;
@@ -12,10 +12,11 @@ button {
   background-color: grey;
   border: none;
   border-radius: 15px;
-  box-shadow: 0 9px #999;
+  
+  margin: 3px
 }
 
-button:hover {
+button:hover  {
     background-color: chartreuse;
 }
 
